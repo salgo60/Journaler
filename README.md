@@ -1,1 +1,3 @@
 # Journaler
+
+Lite tankar om journaler på nätet vad som saknas....
